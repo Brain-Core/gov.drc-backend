@@ -2,7 +2,14 @@
 
 Backend project for the gov drc
 
-### Resources to fix the project
+### Project Setup
+
+Here are some steps to setup the project
+
+- Initialize the project
+- Install useful dependencies
+- Configure the project to support typescript
+- Write some scripts to run/deploy the project
 
 [Resource 1](https://levelup.gitconnected.com/creating-a-node-js-api-with-express-and-typescript-549fba5f5a33)
 
