@@ -1,6 +1,6 @@
 # gov.drc-backend
 
-Backend project for the gov drc
+Backend server app for gov drc
 
 ### Project Setup
 
@@ -10,8 +10,11 @@ Here are some steps to setup the project
 - Install useful dependencies
 - Configure the project to support typescript
 - Write some scripts to run/deploy the project
+- Run the project using the scripts
 
-[Resource 1](https://levelup.gitconnected.com/creating-a-node-js-api-with-express-and-typescript-549fba5f5a33)
+### Resources
+
+[Project Setup](https://levelup.gitconnected.com/creating-a-node-js-api-with-express-and-typescript-549fba5f5a33)
 
 [Resource 2](https://blog.logrocket.com/how-to-set-up-node-typescript-express/)
 
